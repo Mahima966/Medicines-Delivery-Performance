@@ -53,7 +53,7 @@
 
 <img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(212).png" width="300"/>
 <img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(215).png" width="300"/>
-<img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(216).png" width="300"/><br>
+<img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(216).png" width="300"/>
 <img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(218).png" width="300"/>
 <img src="https://github.com/Mahima966/Medicines-Delivery-Performance/blob/main/Screenshot%20(219).png" width="300"/>
 
